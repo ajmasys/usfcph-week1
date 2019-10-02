@@ -15,3 +15,4 @@ familiarize yourself with Git and VSCode
 Look at the resources file if you need help
 diagram the flow of your potential creation
 sero to prototype in 35 days 
+qwerty
