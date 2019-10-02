@@ -8,3 +8,4 @@ week 1: GIT + ecosystem+getting started
 week 2 front end fundamentals (html, css, js)
 week 3 intro to programming logic
 week 4 back end fundamentals (data, apis)
+Java script 
