@@ -1,4 +1,4 @@
-*review*  notes from charles
+*review*  notes _from_ charles
 UX is user experience
 UI user interface
 Back end: security, data, logic
